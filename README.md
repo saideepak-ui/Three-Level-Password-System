@@ -31,7 +31,7 @@ User must replicate their typing speed (keystroke timing) pattern
 
 🚀 How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/three-level-password-system.git
+git clone https://github.com/saideepak-ui/three-level-password-system.git
 cd three-level-password-system
 
 2. Install Dependencies
